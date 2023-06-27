@@ -1,0 +1,400 @@
+Running STREAM...
+Picked 2 cores from CCD: 0 and Picked 6 cores from CCD: 1
+cores_string=0,1,72,73,74,75,76,77
+Triad:        80861.814     3.409282e-03 2.968026e-03 3.487927e-03
+Picked 2 cores from CCD: 0 and Picked 6 cores from CCD: 2
+cores_string=0,1,24,25,26,27,28,29
+Triad:        81053.281     3.219848e-03 2.961015e-03 3.476370e-03
+Picked 2 cores from CCD: 0 and Picked 6 cores from CCD: 3
+cores_string=0,1,48,49,50,51,52,53
+Triad:        76363.517     3.406000e-03 3.142862e-03 3.516751e-03
+Picked 2 cores from CCD: 0 and Picked 6 cores from CCD: 4
+cores_string=0,1,8,9,10,11,12,13
+Triad:        72294.127     3.683770e-03 3.319772e-03 4.012105e-03
+Picked 2 cores from CCD: 0 and Picked 6 cores from CCD: 5
+cores_string=0,1,80,81,82,83,84,85
+Triad:        80443.783     3.333082e-03 2.983450e-03 3.469489e-03
+Picked 2 cores from CCD: 0 and Picked 6 cores from CCD: 6
+cores_string=0,1,32,33,34,35,36,37
+Triad:        84001.939     3.267763e-03 2.857077e-03 3.458102e-03
+Picked 2 cores from CCD: 0 and Picked 6 cores from CCD: 7
+cores_string=0,1,56,57,58,59,60,61
+Triad:        81144.955     3.383270e-03 2.957670e-03 4.039947e-03
+Picked 2 cores from CCD: 0 and Picked 6 cores from CCD: 8
+cores_string=0,1,16,17,18,19,20,21
+Triad:        73134.759     3.713801e-03 3.281613e-03 4.030123e-03
+Picked 2 cores from CCD: 0 and Picked 6 cores from CCD: 9
+cores_string=0,1,88,89,90,91,92,93
+Triad:        81168.303     3.306739e-03 2.956819e-03 3.436078e-03
+Picked 2 cores from CCD: 0 and Picked 6 cores from CCD: 10
+cores_string=0,1,40,41,42,43,44,45
+Triad:        72117.475     3.432739e-03 3.327904e-03 3.461858e-03
+Picked 2 cores from CCD: 0 and Picked 6 cores from CCD: 11
+cores_string=0,1,64,65,66,67,68,69
+Triad:        78983.904     3.350113e-03 3.038594e-03 3.491723e-03
+Picked 2 cores from CCD: 1 and Picked 6 cores from CCD: 0
+cores_string=72,73,0,1,2,3,4,5
+Triad:        72742.701     3.355526e-03 3.299300e-03 3.549941e-03
+Picked 2 cores from CCD: 1 and Picked 6 cores from CCD: 2
+cores_string=72,73,24,25,26,27,28,29
+Triad:        73250.348     3.309109e-03 3.276435e-03 3.367644e-03
+Picked 2 cores from CCD: 1 and Picked 6 cores from CCD: 3
+cores_string=72,73,48,49,50,51,52,53
+Triad:        73388.747     3.294328e-03 3.270256e-03 3.348075e-03
+Picked 2 cores from CCD: 1 and Picked 6 cores from CCD: 4
+cores_string=72,73,8,9,10,11,12,13
+Triad:        74372.474     3.252767e-03 3.227000e-03 3.302535e-03
+Picked 2 cores from CCD: 1 and Picked 6 cores from CCD: 5
+cores_string=72,73,80,81,82,83,84,85
+Triad:        77160.179     3.507443e-03 3.110413e-03 3.860194e-03
+Picked 2 cores from CCD: 1 and Picked 6 cores from CCD: 6
+cores_string=72,73,32,33,34,35,36,37
+Triad:        73799.411     3.313885e-03 3.252058e-03 3.542761e-03
+Picked 2 cores from CCD: 1 and Picked 6 cores from CCD: 7
+cores_string=72,73,56,57,58,59,60,61
+Triad:        74356.097     3.237351e-03 3.227711e-03 3.251507e-03
+Picked 2 cores from CCD: 1 and Picked 6 cores from CCD: 8
+cores_string=72,73,16,17,18,19,20,21
+Triad:        76182.652     3.201562e-03 3.150324e-03 3.217957e-03
+Picked 2 cores from CCD: 1 and Picked 6 cores from CCD: 9
+cores_string=72,73,88,89,90,91,92,93
+Triad:        73065.416     3.871422e-03 3.284728e-03 4.011924e-03
+Picked 2 cores from CCD: 1 and Picked 6 cores from CCD: 10
+cores_string=72,73,40,41,42,43,44,45
+Triad:        73970.041     3.255176e-03 3.244557e-03 3.274272e-03
+Picked 2 cores from CCD: 1 and Picked 6 cores from CCD: 11
+cores_string=72,73,64,65,66,67,68,69
+Triad:        73928.054     3.295257e-03 3.246400e-03 3.503561e-03
+Picked 2 cores from CCD: 2 and Picked 6 cores from CCD: 0
+cores_string=24,25,0,1,2,3,4,5
+Triad:        72505.214     3.447663e-03 3.310107e-03 4.445434e-03
+Picked 2 cores from CCD: 2 and Picked 6 cores from CCD: 1
+cores_string=24,25,72,73,74,75,76,77
+Triad:        82962.545     3.278176e-03 2.892872e-03 3.529891e-03
+Picked 2 cores from CCD: 2 and Picked 6 cores from CCD: 3
+cores_string=24,25,48,49,50,51,52,53
+Triad:        78516.792     3.410881e-03 3.056671e-03 3.582852e-03
+Picked 2 cores from CCD: 2 and Picked 6 cores from CCD: 4
+cores_string=24,25,8,9,10,11,12,13
+Triad:        74195.404     3.257807e-03 3.234702e-03 3.295634e-03
+Picked 2 cores from CCD: 2 and Picked 6 cores from CCD: 5
+cores_string=24,25,80,81,82,83,84,85
+Triad:        80181.088     3.328760e-03 2.993225e-03 3.462179e-03
+Picked 2 cores from CCD: 2 and Picked 6 cores from CCD: 6
+cores_string=24,25,32,33,34,35,36,37
+Triad:        73230.197     3.743246e-03 3.277337e-03 4.071225e-03
+Picked 2 cores from CCD: 2 and Picked 6 cores from CCD: 7
+cores_string=24,25,56,57,58,59,60,61
+Triad:        80017.773     3.433291e-03 2.999334e-03 3.786131e-03
+Picked 2 cores from CCD: 2 and Picked 6 cores from CCD: 8
+cores_string=24,25,16,17,18,19,20,21
+Triad:        74204.126     3.254329e-03 3.234322e-03 3.272740e-03
+Picked 2 cores from CCD: 2 and Picked 6 cores from CCD: 9
+cores_string=24,25,88,89,90,91,92,93
+Triad:        79703.718     3.311275e-03 3.011152e-03 3.449769e-03
+Picked 2 cores from CCD: 2 and Picked 6 cores from CCD: 10
+cores_string=24,25,40,41,42,43,44,45
+Triad:        73316.218     3.774276e-03 3.273491e-03 4.094450e-03
+Picked 2 cores from CCD: 2 and Picked 6 cores from CCD: 11
+cores_string=24,25,64,65,66,67,68,69
+Triad:        81304.353     3.271445e-03 2.951871e-03 3.427805e-03
+Picked 2 cores from CCD: 3 and Picked 6 cores from CCD: 0
+cores_string=48,49,0,1,2,3,4,5
+Triad:        72590.658     3.333723e-03 3.306211e-03 3.390509e-03
+Picked 2 cores from CCD: 3 and Picked 6 cores from CCD: 1
+cores_string=48,49,72,73,74,75,76,77
+Triad:        80795.031     3.312036e-03 2.970480e-03 3.521378e-03
+Picked 2 cores from CCD: 3 and Picked 6 cores from CCD: 2
+cores_string=48,49,24,25,26,27,28,29
+Triad:        73238.919     3.289719e-03 3.276946e-03 3.316587e-03
+Picked 2 cores from CCD: 3 and Picked 6 cores from CCD: 4
+cores_string=48,49,8,9,10,11,12,13
+Triad:        74012.076     3.249372e-03 3.242714e-03 3.254662e-03
+Picked 2 cores from CCD: 3 and Picked 6 cores from CCD: 5
+cores_string=48,49,80,81,82,83,84,85
+Triad:        80642.227     3.322764e-03 2.976108e-03 3.460095e-03
+Picked 2 cores from CCD: 3 and Picked 6 cores from CCD: 6
+cores_string=48,49,32,33,34,35,36,37
+Triad:        74195.862     3.282848e-03 3.234682e-03 3.573998e-03
+Picked 2 cores from CCD: 3 and Picked 6 cores from CCD: 7
+cores_string=48,49,56,57,58,59,60,61
+Triad:        74503.588     3.516158e-03 3.221321e-03 4.045255e-03
+Picked 2 cores from CCD: 3 and Picked 6 cores from CCD: 8
+cores_string=48,49,16,17,18,19,20,21
+Triad:        74710.772     3.229228e-03 3.212388e-03 3.272820e-03
+Picked 2 cores from CCD: 3 and Picked 6 cores from CCD: 9
+cores_string=48,49,88,89,90,91,92,93
+Triad:        80680.235     3.304020e-03 2.974706e-03 3.422838e-03
+Picked 2 cores from CCD: 3 and Picked 6 cores from CCD: 10
+cores_string=48,49,40,41,42,43,44,45
+Triad:        74015.963     3.250780e-03 3.242544e-03 3.262935e-03
+Picked 2 cores from CCD: 3 and Picked 6 cores from CCD: 11
+cores_string=48,49,64,65,66,67,68,69
+Triad:        72695.918     3.748593e-03 3.301423e-03 3.957361e-03
+Picked 2 cores from CCD: 4 and Picked 6 cores from CCD: 0
+cores_string=8,9,0,1,2,3,4,5
+Triad:        66794.741     3.715380e-03 3.593097e-03 3.782245e-03
+Picked 2 cores from CCD: 4 and Picked 6 cores from CCD: 1
+cores_string=8,9,72,73,74,75,76,77
+Triad:        80170.894     3.443796e-03 2.993605e-03 3.550893e-03
+Picked 2 cores from CCD: 4 and Picked 6 cores from CCD: 2
+cores_string=8,9,24,25,26,27,28,29
+Triad:        81836.908     3.162348e-03 2.932662e-03 3.520096e-03
+Picked 2 cores from CCD: 4 and Picked 6 cores from CCD: 3
+cores_string=8,9,48,49,50,51,52,53
+Triad:        76215.850     3.368226e-03 3.148951e-03 3.469288e-03
+Picked 2 cores from CCD: 4 and Picked 6 cores from CCD: 5
+cores_string=8,9,80,81,82,83,84,85
+Triad:        82620.162     3.238508e-03 2.904860e-03 3.428216e-03
+Picked 2 cores from CCD: 4 and Picked 6 cores from CCD: 6
+cores_string=8,9,32,33,34,35,36,37
+Triad:        81140.277     3.392127e-03 2.957841e-03 3.587659e-03
+Picked 2 cores from CCD: 4 and Picked 6 cores from CCD: 7
+cores_string=8,9,56,57,58,59,60,61
+Triad:        82947.323     3.379945e-03 2.893403e-03 3.596993e-03
+Picked 2 cores from CCD: 4 and Picked 6 cores from CCD: 8
+cores_string=8,9,16,17,18,19,20,21
+Triad:        74605.181     3.577950e-03 3.216935e-03 3.992495e-03
+Picked 2 cores from CCD: 4 and Picked 6 cores from CCD: 9
+cores_string=8,9,88,89,90,91,92,93
+Triad:        78803.392     3.276690e-03 3.045554e-03 3.443550e-03
+Picked 2 cores from CCD: 4 and Picked 6 cores from CCD: 10
+cores_string=8,9,40,41,42,43,44,45
+Triad:        80444.604     3.299750e-03 2.983420e-03 3.508548e-03
+Picked 2 cores from CCD: 4 and Picked 6 cores from CCD: 11
+cores_string=8,9,64,65,66,67,68,69
+Triad:        82068.695     3.235670e-03 2.924379e-03 3.438252e-03
+Picked 2 cores from CCD: 5 and Picked 6 cores from CCD: 0
+cores_string=80,81,0,1,2,3,4,5
+Triad:        73871.298     3.332325e-03 3.248894e-03 3.461828e-03
+Picked 2 cores from CCD: 5 and Picked 6 cores from CCD: 1
+cores_string=80,81,72,73,74,75,76,77
+Triad:        67660.378     3.665309e-03 3.547128e-03 3.794654e-03
+Picked 2 cores from CCD: 5 and Picked 6 cores from CCD: 2
+cores_string=80,81,24,25,26,27,28,29
+Triad:        73635.235     3.279547e-03 3.259309e-03 3.289956e-03
+Picked 2 cores from CCD: 5 and Picked 6 cores from CCD: 3
+cores_string=80,81,48,49,50,51,52,53
+Triad:        73271.620     3.305940e-03 3.275484e-03 3.375626e-03
+Picked 2 cores from CCD: 5 and Picked 6 cores from CCD: 4
+cores_string=80,81,8,9,10,11,12,13
+Triad:        73204.697     3.305222e-03 3.278478e-03 3.367404e-03
+Picked 2 cores from CCD: 5 and Picked 6 cores from CCD: 6
+cores_string=80,81,32,33,34,35,36,37
+Triad:        74993.218     3.265667e-03 3.200289e-03 3.306521e-03
+Picked 2 cores from CCD: 5 and Picked 6 cores from CCD: 7
+cores_string=80,81,56,57,58,59,60,61
+Triad:        73397.962     3.314298e-03 3.269846e-03 3.398291e-03
+Picked 2 cores from CCD: 5 and Picked 6 cores from CCD: 8
+cores_string=80,81,16,17,18,19,20,21
+Triad:        74928.261     3.246673e-03 3.203064e-03 3.438753e-03
+Picked 2 cores from CCD: 5 and Picked 6 cores from CCD: 9
+cores_string=80,81,88,89,90,91,92,93
+Triad:        75079.443     3.672669e-03 3.196614e-03 3.959364e-03
+Picked 2 cores from CCD: 5 and Picked 6 cores from CCD: 10
+cores_string=80,81,40,41,42,43,44,45
+Triad:        74101.102     3.257376e-03 3.238818e-03 3.307613e-03
+Picked 2 cores from CCD: 5 and Picked 6 cores from CCD: 11
+cores_string=80,81,64,65,66,67,68,69
+Triad:        74246.666     3.244033e-03 3.232468e-03 3.263776e-03
+Picked 2 cores from CCD: 6 and Picked 6 cores from CCD: 0
+cores_string=32,33,0,1,2,3,4,5
+Triad:        72105.542     3.338874e-03 3.328454e-03 3.348235e-03
+Picked 2 cores from CCD: 6 and Picked 6 cores from CCD: 1
+cores_string=32,33,72,73,74,75,76,77
+Triad:        83695.920     3.362352e-03 2.867523e-03 3.465483e-03
+Picked 2 cores from CCD: 6 and Picked 6 cores from CCD: 2
+cores_string=32,33,24,25,26,27,28,29
+Triad:        70642.477     3.694156e-03 3.397389e-03 3.783917e-03
+Picked 2 cores from CCD: 6 and Picked 6 cores from CCD: 3
+cores_string=32,33,48,49,50,51,52,53
+Triad:        81065.898     3.267091e-03 2.960554e-03 3.506165e-03
+Picked 2 cores from CCD: 6 and Picked 6 cores from CCD: 4
+cores_string=32,33,8,9,10,11,12,13
+Triad:        74397.417     3.275630e-03 3.225918e-03 3.506947e-03
+Picked 2 cores from CCD: 6 and Picked 6 cores from CCD: 5
+cores_string=32,33,80,81,82,83,84,85
+Triad:        75725.965     3.355407e-03 3.169322e-03 3.467596e-03
+Picked 2 cores from CCD: 6 and Picked 6 cores from CCD: 7
+cores_string=32,33,56,57,58,59,60,61
+Triad:        79472.437     3.337536e-03 3.019915e-03 3.448667e-03
+Picked 2 cores from CCD: 6 and Picked 6 cores from CCD: 8
+cores_string=32,33,16,17,18,19,20,21
+Triad:        74035.854     3.288161e-03 3.241673e-03 3.331429e-03
+Picked 2 cores from CCD: 6 and Picked 6 cores from CCD: 9
+cores_string=32,33,88,89,90,91,92,93
+Triad:        82515.746     3.242293e-03 2.908536e-03 3.395477e-03
+Picked 2 cores from CCD: 6 and Picked 6 cores from CCD: 10
+cores_string=32,33,40,41,42,43,44,45
+Triad:        74587.298     3.749190e-03 3.217706e-03 4.107139e-03
+Picked 2 cores from CCD: 6 and Picked 6 cores from CCD: 11
+cores_string=32,33,64,65,66,67,68,69
+Triad:        80024.190     3.380195e-03 2.999093e-03 3.695142e-03
+Picked 2 cores from CCD: 7 and Picked 6 cores from CCD: 0
+cores_string=56,57,0,1,2,3,4,5
+Triad:        72127.231     3.416317e-03 3.327453e-03 3.906314e-03
+Picked 2 cores from CCD: 7 and Picked 6 cores from CCD: 1
+cores_string=56,57,72,73,74,75,76,77
+Triad:        79869.757     3.110689e-03 3.004892e-03 3.492884e-03
+Picked 2 cores from CCD: 7 and Picked 6 cores from CCD: 2
+cores_string=56,57,24,25,26,27,28,29
+Triad:        74389.336     3.282103e-03 3.226269e-03 3.363037e-03
+Picked 2 cores from CCD: 7 and Picked 6 cores from CCD: 3
+cores_string=56,57,48,49,50,51,52,53
+Triad:        67911.574     3.699840e-03 3.534007e-03 3.772941e-03
+Picked 2 cores from CCD: 7 and Picked 6 cores from CCD: 4
+cores_string=56,57,8,9,10,11,12,13
+Triad:        75707.073     3.246001e-03 3.170113e-03 3.309245e-03
+Picked 2 cores from CCD: 7 and Picked 6 cores from CCD: 5
+cores_string=56,57,80,81,82,83,84,85
+Triad:        80240.151     3.360294e-03 2.991021e-03 3.650685e-03
+Picked 2 cores from CCD: 7 and Picked 6 cores from CCD: 6
+cores_string=56,57,32,33,34,35,36,37
+Triad:        74595.656     3.245159e-03 3.217346e-03 3.282855e-03
+Picked 2 cores from CCD: 7 and Picked 6 cores from CCD: 8
+cores_string=56,57,16,17,18,19,20,21
+Triad:        74283.259     3.256386e-03 3.230876e-03 3.334654e-03
+Picked 2 cores from CCD: 7 and Picked 6 cores from CCD: 9
+cores_string=56,57,88,89,90,91,92,93
+Triad:        82345.066     3.336169e-03 2.914564e-03 3.609432e-03
+Picked 2 cores from CCD: 7 and Picked 6 cores from CCD: 10
+cores_string=56,57,40,41,42,43,44,45
+Triad:        74062.164     3.268630e-03 3.240521e-03 3.306541e-03
+Picked 2 cores from CCD: 7 and Picked 6 cores from CCD: 11
+cores_string=56,57,64,65,66,67,68,69
+Triad:        72379.960     3.776713e-03 3.315835e-03 4.033026e-03
+Picked 2 cores from CCD: 8 and Picked 6 cores from CCD: 0
+cores_string=16,17,0,1,2,3,4,5
+Triad:        66247.783     3.732854e-03 3.622763e-03 3.846313e-03
+Picked 2 cores from CCD: 8 and Picked 6 cores from CCD: 1
+cores_string=16,17,72,73,74,75,76,77
+Triad:        80880.657     3.311465e-03 2.967335e-03 3.541509e-03
+Picked 2 cores from CCD: 8 and Picked 6 cores from CCD: 2
+cores_string=16,17,24,25,26,27,28,29
+Triad:        79469.797     3.338884e-03 3.020015e-03 3.532235e-03
+Picked 2 cores from CCD: 8 and Picked 6 cores from CCD: 3
+cores_string=16,17,48,49,50,51,52,53
+Triad:        81265.195     3.390668e-03 2.953294e-03 3.797909e-03
+Picked 2 cores from CCD: 8 and Picked 6 cores from CCD: 4
+cores_string=16,17,8,9,10,11,12,13
+Triad:        67475.772     3.663096e-03 3.556832e-03 3.766441e-03
+Picked 2 cores from CCD: 8 and Picked 6 cores from CCD: 5
+cores_string=16,17,80,81,82,83,84,85
+Triad:        82094.836     3.285145e-03 2.923448e-03 3.452142e-03
+Picked 2 cores from CCD: 8 and Picked 6 cores from CCD: 6
+cores_string=16,17,32,33,34,35,36,37
+Triad:        78310.238     3.418495e-03 3.064733e-03 3.539456e-03
+Picked 2 cores from CCD: 8 and Picked 6 cores from CCD: 7
+cores_string=16,17,56,57,58,59,60,61
+Triad:        81156.205     3.209872e-03 2.957260e-03 3.447546e-03
+Picked 2 cores from CCD: 8 and Picked 6 cores from CCD: 9
+cores_string=16,17,88,89,90,91,92,93
+Triad:        80836.996     3.277785e-03 2.968938e-03 3.420905e-03
+Picked 2 cores from CCD: 8 and Picked 6 cores from CCD: 10
+cores_string=16,17,40,41,42,43,44,45
+Triad:        81500.128     3.165130e-03 2.944781e-03 3.383388e-03
+Picked 2 cores from CCD: 8 and Picked 6 cores from CCD: 11
+cores_string=16,17,64,65,66,67,68,69
+Triad:        81821.255     3.274376e-03 2.933223e-03 3.465773e-03
+Picked 2 cores from CCD: 9 and Picked 6 cores from CCD: 0
+cores_string=88,89,0,1,2,3,4,5
+Triad:        71925.895     3.350098e-03 3.336768e-03 3.375106e-03
+Picked 2 cores from CCD: 9 and Picked 6 cores from CCD: 1
+cores_string=88,89,72,73,74,75,76,77
+Triad:        66781.718     3.725299e-03 3.593798e-03 3.816187e-03
+Picked 2 cores from CCD: 9 and Picked 6 cores from CCD: 2
+cores_string=88,89,24,25,26,27,28,29
+Triad:        73395.277     3.281120e-03 3.269965e-03 3.296155e-03
+Picked 2 cores from CCD: 9 and Picked 6 cores from CCD: 3
+cores_string=88,89,48,49,50,51,52,53
+Triad:        73272.288     3.302160e-03 3.275454e-03 3.348535e-03
+Picked 2 cores from CCD: 9 and Picked 6 cores from CCD: 4
+cores_string=88,89,8,9,10,11,12,13
+Triad:        74290.853     3.248784e-03 3.230546e-03 3.331048e-03
+Picked 2 cores from CCD: 9 and Picked 6 cores from CCD: 5
+cores_string=88,89,80,81,82,83,84,85
+Triad:        67453.550     3.705518e-03 3.558004e-03 3.798480e-03
+Picked 2 cores from CCD: 9 and Picked 6 cores from CCD: 6
+cores_string=88,89,32,33,34,35,36,37
+Triad:        75675.992     3.241941e-03 3.171415e-03 3.305349e-03
+Picked 2 cores from CCD: 9 and Picked 6 cores from CCD: 7
+cores_string=88,89,56,57,58,59,60,61
+Triad:        73272.962     3.304062e-03 3.275424e-03 3.379132e-03
+Picked 2 cores from CCD: 9 and Picked 6 cores from CCD: 8
+cores_string=88,89,16,17,18,19,20,21
+Triad:        76551.352     3.204342e-03 3.135150e-03 3.230425e-03
+Picked 2 cores from CCD: 9 and Picked 6 cores from CCD: 10
+cores_string=88,89,40,41,42,43,44,45
+Triad:        75760.210     3.245750e-03 3.167890e-03 3.480436e-03
+Picked 2 cores from CCD: 9 and Picked 6 cores from CCD: 11
+cores_string=88,89,64,65,66,67,68,69
+Triad:        75206.451     3.223932e-03 3.191216e-03 3.312340e-03
+Picked 2 cores from CCD: 10 and Picked 6 cores from CCD: 0
+cores_string=40,41,0,1,2,3,4,5
+Triad:        71488.614     3.398632e-03 3.357178e-03 3.481968e-03
+Picked 2 cores from CCD: 10 and Picked 6 cores from CCD: 1
+cores_string=40,41,72,73,74,75,76,77
+Triad:        80841.364     3.312851e-03 2.968777e-03 3.730456e-03
+Picked 2 cores from CCD: 10 and Picked 6 cores from CCD: 2
+cores_string=40,41,24,25,26,27,28,29
+Triad:        67886.368     3.640389e-03 3.535319e-03 3.810839e-03
+Picked 2 cores from CCD: 10 and Picked 6 cores from CCD: 3
+cores_string=40,41,48,49,50,51,52,53
+Triad:        80268.104     3.373272e-03 2.989980e-03 3.499425e-03
+Picked 2 cores from CCD: 10 and Picked 6 cores from CCD: 4
+cores_string=40,41,8,9,10,11,12,13
+Triad:        73493.869     3.286385e-03 3.265578e-03 3.370468e-03
+Picked 2 cores from CCD: 10 and Picked 6 cores from CCD: 5
+cores_string=40,41,80,81,82,83,84,85
+Triad:        73759.896     3.425191e-03 3.253801e-03 3.718168e-03
+Picked 2 cores from CCD: 10 and Picked 6 cores from CCD: 6
+cores_string=40,41,32,33,34,35,36,37
+Triad:        68569.550     3.662904e-03 3.500096e-03 3.753972e-03
+Picked 2 cores from CCD: 10 and Picked 6 cores from CCD: 7
+cores_string=40,41,56,57,58,59,60,61
+Triad:        81194.444     3.312357e-03 2.955867e-03 3.764368e-03
+Picked 2 cores from CCD: 10 and Picked 6 cores from CCD: 8
+cores_string=40,41,16,17,18,19,20,21
+Triad:        74028.077     3.256798e-03 3.242013e-03 3.309576e-03
+Picked 2 cores from CCD: 10 and Picked 6 cores from CCD: 9
+cores_string=40,41,88,89,90,91,92,93
+Triad:        81030.262     3.375303e-03 2.961856e-03 3.474907e-03
+Picked 2 cores from CCD: 10 and Picked 6 cores from CCD: 11
+cores_string=40,41,64,65,66,67,68,69
+Triad:        82591.978     3.272438e-03 2.905851e-03 3.434936e-03
+Picked 2 cores from CCD: 11 and Picked 6 cores from CCD: 0
+cores_string=64,65,0,1,2,3,4,5
+Triad:        73898.413     3.313812e-03 3.247702e-03 3.405442e-03
+Picked 2 cores from CCD: 11 and Picked 6 cores from CCD: 1
+cores_string=64,65,72,73,74,75,76,77
+Triad:        84237.272     3.292077e-03 2.849095e-03 3.564664e-03
+Picked 2 cores from CCD: 11 and Picked 6 cores from CCD: 2
+cores_string=64,65,24,25,26,27,28,29
+Triad:        74128.385     3.290393e-03 3.237626e-03 3.387464e-03
+Picked 2 cores from CCD: 11 and Picked 6 cores from CCD: 3
+cores_string=64,65,48,49,50,51,52,53
+Triad:        67592.638     3.710143e-03 3.550683e-03 3.774303e-03
+Picked 2 cores from CCD: 11 and Picked 6 cores from CCD: 4
+cores_string=64,65,8,9,10,11,12,13
+Triad:        74122.424     3.275755e-03 3.237887e-03 3.379602e-03
+Picked 2 cores from CCD: 11 and Picked 6 cores from CCD: 5
+cores_string=64,65,80,81,82,83,84,85
+Triad:        78147.827     3.355191e-03 3.071103e-03 3.431712e-03
+Picked 2 cores from CCD: 11 and Picked 6 cores from CCD: 6
+cores_string=64,65,32,33,34,35,36,37
+Triad:        73436.432     3.315163e-03 3.268133e-03 3.446654e-03
+Picked 2 cores from CCD: 11 and Picked 6 cores from CCD: 7
+cores_string=64,65,56,57,58,59,60,61
+Triad:        67362.730     3.676219e-03 3.562801e-03 3.768895e-03
+Picked 2 cores from CCD: 11 and Picked 6 cores from CCD: 8
+cores_string=64,65,16,17,18,19,20,21
+Triad:        74245.057     3.240932e-03 3.232538e-03 3.246760e-03
+Picked 2 cores from CCD: 11 and Picked 6 cores from CCD: 9
+cores_string=64,65,88,89,90,91,92,93
+Triad:        80572.543     3.324316e-03 2.978682e-03 3.499345e-03
+Picked 2 cores from CCD: 11 and Picked 6 cores from CCD: 10
+cores_string=64,65,40,41,42,43,44,45
+Triad:        74514.481     3.245997e-03 3.220850e-03 3.282324e-03
+Picked 2 cores from CCD: 11 and Picked 6 cores from CCD: 12
+cores_string=64,65,0,1,2,3,4,5
+Triad:        71725.474     3.362806e-03 3.346092e-03 3.440896e-03
